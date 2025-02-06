@@ -1,8 +1,8 @@
-# Museum Design Store️
+![homepage-museum-design-store](https://github.com/user-attachments/assets/ce851ca8-8447-48d0-9301-a2201894c572)# Museum Design Store️
 
 Full-stack webpage with a clean and modern interface.
 
-<img width="1440" alt="Screenshot 2024-10-21 at 10 56 39 p m" src="https://github.com/user-attachments/assets/4528f358-8c89-45ee-8cca-9487ade73432">
+![homepage-museum-design-store](https://github.com/user-attachments/assets/79f22235-8c12-404b-85df-5dd29a443b2a)
 
 <img width="1440" alt="Screenshot 2024-10-21 at 11 26 18 p m" src="https://github.com/user-attachments/assets/080200b8-24cb-47e0-8f84-1276a0abfa4b">
 
